@@ -1,4 +1,4 @@
-# <img align="left" alt="Cloud2Go" width="100px" src="https://www.photos.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
+# <img align="left" alt="Cloud2Go" width="100px" src="https://cloud2go.tk/client/favicon/icon-144x144.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
 
 Cloud2Go ☁️🔴 - Enjoy 20TB of free and secure Cloud Storage. 🚀
 
