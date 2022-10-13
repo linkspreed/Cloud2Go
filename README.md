@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed Photos" width="100px" src="https://www.photos.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Linkspreed Photos ([Click to try 🚀](https://photos.linkspreed.com/))
+# <img align="left" alt="Cloud2Go" width="100px" src="https://www.photos.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
 
 Linkspreed Photos 🧡 - get 200 terabytes of cloud storage ☁️ for your photos and best memories 🤳
 
