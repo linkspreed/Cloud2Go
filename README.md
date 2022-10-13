@@ -1,8 +1,6 @@
 # <img align="left" alt="Cloud2Go" width="100px" src="https://www.photos.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
 
-Linkspreed Photos 🧡 - get 200 terabytes of cloud storage ☁️ for your photos and best memories 🤳
-
-
+Cloud2Go ☁️🔴 - Enjoy 20TB of free and secure Cloud Storage. 🚀
 
 ## **[Changelog ☁️](https://github.com/linkspreed/Linkspreed_Photos/blob/main/changelog.md)** **Check out the full Linkspreed Photos changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_Photos/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed Photos besides development**
