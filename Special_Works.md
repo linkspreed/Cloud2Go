@@ -1,3 +1,6 @@
+### 27.10.2022
+- The release date of the new version is getting closer.
+
 ### 23.10.2022 (announcement)
 - We will release a major update for this cloud in the coming weeks.
 
