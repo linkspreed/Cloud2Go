@@ -1,3 +1,6 @@
+### 02.11.2022 (announcement Cloud2Go)
+- We are very close to a new major update.
+
 ### 27.10.2022
 - The release date of the new version is getting closer.
 
