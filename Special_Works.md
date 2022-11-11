@@ -1,4 +1,7 @@
 ### 11.11.2022 (announcement Cloud2Go)
+- The new update will be available soon!
+
+### 11.11.2022 (announcement Cloud2Go)
 - We have negotiations with Cloudflare - then we will release the new update!
 
 ### 02.11.2022 (announcement Cloud2Go)
