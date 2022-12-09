@@ -1,6 +1,6 @@
 # <img align="left" alt="Cloud2Go" width="100px" src="https://cloud2go.tk/storage/branding_media/df745ded-9cbb-477b-8070-d5ecd788f30e.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
 
-Cloud2Go ☁️🔴 - Enjoy 20TB of free and secure Cloud Storage. 🚀
+Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
 ## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt)** **Check out the full Cloud2Go changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloud2Go/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloud2Go besides development**
@@ -13,7 +13,7 @@ Cloud2Go ☁️🔴 - Enjoy 20TB of free and secure Cloud Storage. 🚀
 
 ## Features
 
- - **SaaS mode** – Use Cloud2Go for free and get 200 terabytes of free cloud storage on your account.
+ - **SaaS mode** – Use Cloud2Go for free and get 100 terabytes of free cloud storage on your account.
  - **High Performance** – Cloud2Go is lightweight and has lighting fast performance and page load time out of the box.
  - **Sharing** – You can share files and folders with multiple users, allowing collaboration.
  - **Upload Status** – See status, progress, estimated time left and more for all current uploads.
