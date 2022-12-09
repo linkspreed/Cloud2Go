@@ -1,4 +1,9 @@
 ### 09.12.2022 (announcement Cloud2Go)
+- The launch of version 3.0.7 of **Cloud2Go** was successful! 🥳
+- The new update is live now :)
+- https://cloud2go.tk 🔗
+
+### 09.12.2022 (announcement Cloud2Go)
 - We are now starting the launch of v3.0.7.
 
 ### 09.12.2022 (announcement Cloud2Go)
