@@ -1,3 +1,6 @@
+### 09.12.2022 (announcement Cloud2Go)
+-  **Cloud2Go** gets a big update today - we are going to launch v3.0.7. 😍
+
 ### 11.11.2022 (announcement Cloud2Go)
 - The new update will be available soon!
 
