@@ -1,8 +1,8 @@
-# <img align="left" alt="Cloud2Go" width="100px" src="https://cloud2go.tk/client/favicon/icon-144x144.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
+# <img align="left" alt="Cloud2Go" width="100px" src="https://cloud2go.tk/storage/branding_media/df745ded-9cbb-477b-8070-d5ecd788f30e.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
 
 Cloud2Go ☁️🔴 - Enjoy 20TB of free and secure Cloud Storage. 🚀
 
-## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.md)** **Check out the full Cloud2Go changelog**
+## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt)** **Check out the full Cloud2Go changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloud2Go/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloud2Go besides development**
 
 
