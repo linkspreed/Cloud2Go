@@ -1,4 +1,8 @@
 ### 15.12.2022 (announcement Cloud2Go)
+- We were able to successfully solve the registration problem on Cloud2Go.  
+- The platform is now working properly.
+
+### 15.12.2022 (announcement Cloud2Go)
 - We've finally found the bug on **Cloud2Go** and solved the issue...
 
 ### 09.12.2022 (announcement Cloud2Go)
