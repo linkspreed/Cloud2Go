@@ -1,3 +1,6 @@
+### 15.12.2022 (announcement Cloud2Go)
+- We've finally found the bug on **Cloud2Go** and solved the issue...
+
 ### 09.12.2022 (announcement Cloud2Go)
 - https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt
 - The entire changelog is now available on Github.
