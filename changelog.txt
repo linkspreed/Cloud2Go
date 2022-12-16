@@ -1,3 +1,18 @@
+2022 December 16 - Version 3.0.8
+Enhancements
+Selected sorting will now be remembered between page loads for each individual folder.
+Added keybinds for selecting all files and deleting currently selected files.
+Delete, duplicate and move operations will now show loading message while in progress.
+It's now possible to select date range in admin area analytics page.
+Analytics page will now show percentage change from previous period in the header.
+Bug Fixes
+Update user permissions when switching between workspaces.
+Collapse navbar menu into dropdown on mobile.
+Add missing password field when updating user from admin area.
+Add proper aspect ratio to video embeds in custom pages.
+Prevent uploading while trash page is open.
+Fix an issue with POST requests in api docs page not working properly.
+
 2022 December 09 - Version 3.0.7
 Enhancements
 Improved admin area analytics data labeling.
