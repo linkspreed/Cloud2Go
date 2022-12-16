@@ -1,3 +1,6 @@
+### 16.12.2022 (announcement Cloud2Go)
+-  **Cloud2Go** gets a big update today - we are going to launch v3.0.8. 😍
+
 ### 15.12.2022 (announcement Cloud2Go)
 - We were able to successfully solve the registration problem on Cloud2Go.  
 - The platform is now working properly.
