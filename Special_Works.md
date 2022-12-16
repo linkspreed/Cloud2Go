@@ -1,4 +1,8 @@
 ### 16.12.2022 (announcement Cloud2Go)
+- https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 16.12.2022 (announcement Cloud2Go)
 - The launch of version 3.0.8 of **Cloud2Go** was successful! 🥳
 - The new update is live now :)
 - https://cloud2go.tk 🔗
