@@ -1,4 +1,5 @@
 2022 December 16 - Version 3.0.8
+
 Enhancements
 Selected sorting will now be remembered between page loads for each individual folder.
 Added keybinds for selecting all files and deleting currently selected files.
@@ -13,18 +14,27 @@ Add proper aspect ratio to video embeds in custom pages.
 Prevent uploading while trash page is open.
 Fix an issue with POST requests in api docs page not working properly.
 
+-
+
 2022 December 09 - Version 3.0.7
+
 Enhancements
 Improved admin area analytics data labeling.
 Bug Fixes
 Fixed an issue with some s3 providers not working properly.
 Fixed an issue with FTP storage provider port not working sometimes.
 
+-
+
 2022 December 09 - Version 3.0.6
+
 Bug Fixes
 Corrected several words that were not translatable from admin area.
 
+-
+
 2022 December 09 - Version 3.0.5
+
 Bug Fixes
 Fixed an issue with workspace invitation email link.
 Allow user to rename workspace, even if they have reached their allowed workspaces limit.
@@ -33,7 +43,10 @@ Existing prices for subscription plan can now be edited and deleted, if no user 
 Details column status will now persist between page loads.
 Fixed an issue with available space field only allowing up to 4GB on some servers.
 
+-
+
 2022 December 09 - Version 3.0.4
+
 Bug Fixes
 Fixed an issue with active locale not properly applying sometimes.
 Search in translation page will no longer be case-sensitive.
@@ -42,7 +55,10 @@ Fixed a few issues with settings caching.
 Disabling download will now work correctly for all shareable link sub-folders.
 Color picker input will now properly update live preview in appearance editor without needing to save first.
 
+-
+
 2022 December 09 - Version 3.0.3
+
 Bug Fixes
 Location section in details sidebar will now correctly show selected file parent folder.
 Fixed a few issues with backblaze integration.
@@ -55,7 +71,10 @@ Fixed a few issues with search in admin area and drive.
 Image thumbnails should now show properly on nested subdomains.
 Fixed an issue with ads from "admin > ads" page now saving sometimes.
 
+-
+
 2022 December 09 - Version 3.0.2
+
 Bug Fixes
 Fixed an issue with more actions button not working on mobile.
 Fixed an issue where new folder would sometimes be created in a wrong sub-folder.
@@ -69,7 +88,10 @@ Prevent files with long names from overflowing file table.
 Delete button in file entries page in admin area will now permanently delete files, instead of moving them to trash.
 Fixed an issue "File delivery optimization" setting validation in "admin > settings > uploading" page.
 
+-
+
 2022 December 09 - Version 3.0.1
+
 Bug Fixes
 Fixed an issue where larger uploads would not upload properly on some servers.
 Fixed an issue with download button in drive dashboard.
@@ -87,9 +109,12 @@ Fixed an issue where duplicating a file from "shares" page would put it into ori
 Fixed an issue where custom menu items without any destination url would cause an error.
 Fixed custom page slug not updating automatically when changing page title.
 
+-
+
 2022 December 09 - Version 3.0.0
+
 New Features
-Fully rewritten BeDrive in React. This results in many improvements from previous version, including better performance, bundle size reduction by nearly 2x (with bigger reduction in future updates), better animations and many bugfixes.
+Fully rewritten Cloud2Go in React. This results in many improvements from previous version, including better performance, bundle size reduction by nearly 2x (with bigger reduction in future updates), better animations and many bugfixes.
 Refreshed the design for most pages across the site.
 It's now possible to upload files directly from browser to s3 and s3 compatible services.
 Enhancements
@@ -130,7 +155,11 @@ Fixed an issue where ordering in admin data tables would not work properly when 
 Prevent user from being logged out when changing password in account settings page.
 Default browser language will no longer take priority over one selected in admin settings.
 Fixed an issue where disabling registration from settings page would leave API registration route active.
+
+-
+
 2021 July 16 - Version 2.2.6
+
 New Features
 Added filtering functionality. It's now possible to filter and search files by date, type, owner, shared status and more.
 Enhancements
@@ -159,7 +188,11 @@ Fixed a few issues with favicon generation.
 Registering from pricing page will now correctly redirect user to payment page after registration.
 Fixed an issue where installation might not start properly on some hosting environments.
 A number of other smaller fixes.
+
+-
+
 2021 April 12 - Version 2.2.5
+
 Enhancements
 Added full supported for S3 presigned urls.
 Bug Fixes
@@ -171,7 +204,11 @@ Fixed a few issues on macos with uploading nested folders while chunked uploadin
 Fixed an issue where folders might appear in currently open folder and not in the one they were uploaded to originally until page is refreshed.
 Corrected expiration date input format for shareable link.
 Made some previously missing validation lines translatable.
+
+-
+
 2021 March 11 - Version 2.2.4
+
 Enhancements
 Compatibility with latest Stripe API version.
 It's now possible to specify CDN url for file previews via "FILE_PREVIEW_ENDPOINT" option.
@@ -184,10 +221,14 @@ Fixed an issue where installation might not start properly on some hosting envir
 Audio and Video preview should now work properly on Safari.
 It's no longer possible to invite non-registered users to workspace, if registration is disabled in settings page.
 API docs page will now link to account settings page correctly.
+
+-
+
 2021 March 10 - Version 2.2.3
+
 New Features
-Compatibility with new Android and iOS mobile app for BeDrive.
-Implemented a fully featured, token based API. It can be used to integrate BeDrive into existing projects, native apps and more. 
+Compatibility with new Android and iOS mobile app for Cloud2Go.
+Implemented a fully featured, token based API. It can be used to integrate Cloud2Go into existing projects, native apps and more. 
 Added Manage API Access Tokens section in account settings page for creating or revoking API access tokens.
 Added functional API docs. They can be accessed at your-site.com/api-docs url, there's also a link in account settings page.
 Bug Fixes
@@ -198,7 +239,11 @@ Breadcrumbs will now show properly when in deeply nested folder in workspace.
 Fixed some visual issues on certain screen sizes on file preview page.
 Fixed a few issues with workspace permissions.
 A number of other smaller fixes.
+
+-
+
 2020 October 14 - Version 2.2.2
+
 New Features
 Added workspace/team functionality. Workspaces allow teams to store and collaborate on files.
 Only one device can now be allowed to be logged into user account at the same time.
@@ -208,7 +253,7 @@ When using S3 (or any s3 compatible storage method) files will now be downloaded
 Previewing a file in a folder will now allow navigating to other files in that folder via arrows.
 Multiple emails pasted into "manage people" dialog will now be parsed automatically.
 "More actions" menu for folder will now have upload file and folder actions on mobile.
-Updated Laravel to latest version. BeDrive now requires at least PHP 7.2.5 version to work properly.
+Updated Laravel to latest version. Cloud2Go now requires at least PHP 7.2.5 version to work properly.
 Updated login, register, forgot password and reset password pages design.
 If some server error occurs a more descriptive message will now be shown if user is logged in as admin.
 All email templates will now have the same design.
@@ -234,7 +279,11 @@ Make sure text logo does not push login button offsreen.
 Always store appearance editor custom css and js locally, regardless of storage method in settings page.
 If placeholders can't be replaced in tags provided in "admin > appearance > seo" page, hide those tags when displaying the page.
 A number of other smaller fixes.
+
+-
+
 2020 April 16 - Version 2.2.1
+
 New Features
 Added new notification system.
 Added configurable GDPR cookie notice.
@@ -244,7 +293,7 @@ Single tap on mobile will now either open a folder or show file preview.
 Set bedrive user email and display name on stripe, so subscriptions can be found more easily.
 Specific plans can now be hidden from upgrade and pricing pages.
 Proration amount on subscription changes to more expensive plan on same interval will now be charged immediately instead of next billing cycle on stripe to prevent abuse.
-Added validation to check whether x-accel or x-sendfile is setup on the server before enabling that setting in BeDrive.
+Added validation to check whether x-accel or x-sendfile is setup on the server before enabling that setting in Cloud2Go.
 Added keybinds for "DELETE" and "ENTER" buttons when at least one file is selected in drive.
 Slugs will now be generated properly for cyrillic and chinese characters.
 Improved performance when downloading large files.
@@ -263,11 +312,15 @@ Corrected a few visual issues with dropdowns across the site.
 Fixed an issue with site logo in shared file page sometimes not showing.
 Chart legend items will now wrap to new line if there's not enough space.
 A number of other smaller fixes and improvements.
+
+-
+
 2019 December 29 - Version 2.2.0
+
 New Features
 Added dark & light mode as well as multiple theme functionality.
 Data tables in admin area now have a number of built-in filters for easier data management.
-Added chunked uploading. This allows BeDrive to upload large files in smaller chunks for better upload reliability and avoid server file size limits.
+Added chunked uploading. This allows Cloud2Go to upload large files in smaller chunks for better upload reliability and avoid server file size limits.
 Added resumable uploads functionality.
 Added support for XSendFile and XAcceleratedResponse for reducing server RAM and CPU usage.
 Email notification can now be sent to user when a file or folder is shared with them.
@@ -312,7 +365,11 @@ Fixed an issue where image thumbnail would not be shown sometimes in shared fold
 Don't ask password again for nested folders if user has already entered password for parent shared folder.
 Shared files will no longer take up user allowed storage space.
 Restoring folder from trash will now properly restore child items.
+
+-
+
 2019 May 31 - Version 2.1.3
+
 Enhancements
 File descriptions are now searchable.
 Files from "shared with me" page should now be searchable.
@@ -325,7 +382,11 @@ Don't show errors in browser console if analytics are not set up.
 Folder shareable link should now be properly scrollable.
 All word files should now have proper icon.
 Corrected a few issues with billing plan syncing.
+
+-
+
 2019 March 11 - Version 2.1.1
+
 New Features
 Folders viewed via shareable link will now have same interface as main site.
 Spreadsheet, Powerpoint and Word documents can now be previewed.
@@ -349,7 +410,11 @@ Currencies with longer symbols will no longer overlap subscription plan name.
 Sorting order will now be preserved when more files are loaded via scrolling.
 PDF preview will now work properly on Edge and most mobile browsers.
 User subscriptions in admin area will now be searchable.
+
+-
+
 2018 November 05 - Version 2.0.9
+
 Bug Fixes
 Load all child files and folders for shareable link, regardless of how deeply they are nested.
 Fix appearance editor color issues on EDGE browser.
@@ -358,14 +423,22 @@ Fix some issues with adsense responsive ads.
 Default to free billing plan available space (if free plan exists), if it's not set for user manually and user is not subscribed.
 Correct some visual issues with file grid on a few very specific screen sizes.
 Hide "upgrade storage" button, if billing is disabled in settings.
+
+-
+
 2018 October 09 - Version 2.0.6
+
 Bug Fixes
 Count trashed files towards user total space usage.
 Search for files and folder regardless of how deeply they are nested.
 Properly restore all folder contents from trash.
 Fix an issue with paypal sandbox url sometimes being used even if paypal live mode is enabled.
 Fix an issue with appearance editor live preview sometimes not working when site is hosted on sub-domain.
+
+-
+
 2018 August 26 - Version 2.0.5
+
 Bug Fixes
 Show files in "trash", "shared", "starred" and "recent" pages, if parent folder of those files is not marked for those pages.
 Use regular file or folder context menu in "starred" and "recent" page.
@@ -377,7 +450,11 @@ Remove all user files when user is deleted from admin area.
 Add several missing translation lines.
 New Features
 Built in contact page with google recaptcha integration.
+
+-
+
 2018 August 25 - Version 2.0.4
+
 Bug Fixes
 Don't cancel uploads if new uploads are added while old ones are still active.
 Refresh users list in admin area after one of the users is updated.
@@ -388,7 +465,11 @@ Improved upgrade page layout on mobile devices.
 New Features
 Added "files" page in admin area for inspecting and deleting files/folders.
 New translation lines can now be added from "admin > translations" page.
+
+-
+
 2018 August 23 - Version 2.0.3
+
 Bug Fixes
 Properly translate all validation messages.
 Give "users" role permission to view billing plans by default.
@@ -399,13 +480,21 @@ Use database table prefix specified during installation.
 Enhancements
 Reduce logo size on landing page on mobile.
 Improve migration of old files (uploaded prior to 2.0.0).
+
+-
+
 2018 August 21 - Version 2.0.2
+
 Bug Fixes
 Temporary directory for downloads will now be created properly.
 Radio buttons and checkboxes should now be properly affected by appearance editor.
 Enhancements
 Improved compatibility with MariaDB.
+
+-
+
 2018 August 20 - Version 2.0.1
+
 Bug Fixes
 Sample menu links will now have correct urls.
 Don't try to create plans marked as "free" on payment gateways.
@@ -424,7 +513,11 @@ Images and videos should no longer be cut off when previewing on smaller screen.
 Long text documents will now be scrollable when previewed.
 Improved support for IE11 and other older browsers.
 Show 404 page if shareable link is expired, does not exist anymore or file entry is trashed.
+
+-
+
 2018 August 18 - Version 2.0.0
+
 New Features
 New site design, based on Google's Material Design.
 File and folder sharing and collaboration between users.
@@ -454,24 +547,40 @@ Folders and sub-folders can now have duplicate names.
 Many new settings for billing, localization, authentication, logging, cache and more in settings page.
 Many improvements to authentication, including password reset, account confirmation and more.
 Bug Fixes
-2.0.0 is a full re-write of BeDrive, it fixes and improves a lot of issues in all parts of the site.
+2.0.0 is a full re-write of Cloud2Go, it fixes and improves a lot of issues in all parts of the site.
+
+-
+
 2018 April 17 - Version 1.9.4
+
 compatability with new version of stripe API.
 prevent warnings in chrome due to duplicate element IDs.
+
+-
+
 2018 February 21 - Version 1.9.3
+
 compatibility with PHP 7.1+
 compatibility with new dropbox API version.
 video and audio previews will now use native browser player.
 fixed an issue where error messages would overlay inputs sometimes.
 fixed an issue with password change not working on some servers.
+
+-
+
 2017 May 4 - Version 1.9.2
+
 File and folder download urls will now be encrypted properly.
 Space usage will now load correctly when using S3.
 Improved performance of dashboard when folder has many files.
 Thumbnails for svg images will now be generated properly.
 Facebook social login will now work with new version of facebook API.
 Multiple files will now be properly selectable.
+
+-
+
 2017 March 4 - Version 1.9.1
+
 Fixed an issue where files in recent folder were not marked as favorited correctly.
 Fixed an issue where file would disappear until page reload when moving it to folder it was already in.
 Fixed an issue where 'copy' and 'move' actions were not working in recent and favorite folders.
@@ -481,23 +590,35 @@ Fixed an error that occurred when uploading files to folder if that folder had s
 Fixed copying file link to clipboard not working on some browsers.
 Fixed an issue with search sometimes not working when in favorites or trash folder.
 Fixed some grammar mistakes in english translation files.
+
+-
+
 2016 October 20 - Version 1.9
+
 Implemented proper infinite scroll for uploaded files in users dashboard.
 Space available for specific user can now be changed from admin area > users page.
 Number of files that should be loaded in users dashboard initially can now be specified in settings page.
 Site url can now be changed from settings page.
-Current BeDrive version can now be seen in admin area.
+Current Cloud2Go version can now be seen in admin area.
 Fixed an issue where composer was not working properly.
 Fixed layout of edit user modal in admin area > users page.
 A number of other smaller bugfixes.
+
+-
+
 2016 August 15 - Version 1.8
-BeDrive will now work on servers where PUT and DELETE requests are disabled.
+
+Cloud2Go will now work on servers where PUT and DELETE requests are disabled.
 Fixed an issue with user password not being updateable from user dashboard.
 Fixed an issue where file with password was sometimes not shareable.
-Fixed an issue with BeDrive sometimes only using half the screen on phones.
+Fixed an issue with Cloud2Go sometimes only using half the screen on phones.
 Fixed an issue with analytics page not working sometimes.
 Fixed an issue with multiple files download not working if using S3 for storage.
+
+-
+
 2016 May 12 - Version 1.7
+
 Root folder will now show its sub-folders in dashboard.
 Fixed an issue with files that had password being downloadable without it.
 Fixed an issue with files having double extension when downloading.
@@ -506,7 +627,11 @@ Fixed an issue with sharing not working properly.
 Fixed an issue with some settings not saving properly in admin area.
 Fixed an issue with settings page not working properly if using s3 for storing files.
 Fixed an issue with database prefix not working correctly during installation.
+
+-
+
 2016 February 19 - Version 1.6
+
 Implemented a new installer that will try to automatically correct a number of common server issues.
 Long press on file thumbnail will now open file context menu on touch screens.
 Double tap on file thumbnail will now open file preview on touch screens.
@@ -516,7 +641,11 @@ Link copy functionality should now work properly on firefox.
 Fixed an issue where folder renaming would not reflect in subfolders breadcrumbs properly.
 Fixed an issue where not logged in users could not download folders via share link.
 Fixed an issue with avatars not being resized properly in admin area users table.
+
+-
+
 2015 December 18 - Version 1.5
+
 Greatly improved performance of all admin tables.
 Made several improvements to responsive design.
 Fixed several issues withs ads.
@@ -527,7 +656,11 @@ Fixed an issue where folders were not downloadable on some servers.
 Fixed an issue where folder renaming would not reflect in breadcrumbs properly.
 Fixed an issue where site name change in admin area would not affect user dashboard.
 Fixed an issue where register button would still show in preview page if registration was disabled.
+
+-
+
 2015 October 28 - Version 1.4
+
 Meta title and description entered in admin panel will now be added to all pages.
 Added some missing translations to translations file.
 Improved file previews on all browsers and fixed a number of small issues related to it.
@@ -541,20 +674,32 @@ Fixed an issue where folders with # in their name would not work properly.
 Fixed an issue where files would not download properly sometimes when using amazon S3 or dropbox for storing files.
 Fixed an issue with some of the admin tables not working properly on Safari when using Mac or iOS.
 Fixed an issue where file extension would not be added to filename properly sometimes when downloading a file.
+
+-
+
 2015 October 2 - Version 1.3
+
 Fixed an issue with dialogs not working on iOS and some versions of mac properly.
 Fixed some issues with upgrade modal responsiveness.
 Fixed an issue with upload panel getting cut off if uploading many files at the same time.
 Fixed an issue where non admin accounts were not able to delete files from trash properly.
 Fixed an issue with user settings modal not working when in admin area.
 Fixed an issue with first name and last name fields being mixed in admin area users page.
+
+-
+
 2015 September 20 - Version 1.2
+
 Fixed an issue with thumbnails not generating properly for uploaded images on some servers.
 Fixed an issue with files not being deleted from filesystem properly after user deletes them from trash page.
 Fixed an issue where some service keys were shown in plain text when viewing page source.
 Fixed an issue with folders being movable to themselves via move to menu.
 Fixed an issue with admin area analytics page getting cut off on smaller screens.
+
+-
+
 2015 September 07 - Version 1.1
+
 Lading page will now redirect to users dashboard if it's accessed when user is logged in.
 Files table in admin area will now show user that file belongs to.
 Ads will now be hidden for subscribed/premium users.
