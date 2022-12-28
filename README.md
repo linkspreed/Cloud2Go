@@ -2,6 +2,8 @@
 
 Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
+## Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
+
 ## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt)** **Check out the full Cloud2Go changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloud2Go/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloud2Go besides development**
 
