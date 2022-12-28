@@ -1,3 +1,6 @@
+### 28.12.2022 (announcement Cloud2Go)
+- Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
+
 ### 16.12.2022 (announcement Cloud2Go)
 - https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt
 - The entire changelog is now available on Github.
