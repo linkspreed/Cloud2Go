@@ -1,3 +1,6 @@
+### 29.12.2022 (announcement Cloud2Go)
+- We started working on a subscription system for **Cloud2Go** that we will release in 2023!
+
 ### 28.12.2022 (announcement Cloud2Go)
 - Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
 
