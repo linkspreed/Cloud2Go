@@ -1,3 +1,6 @@
+### 26.03.2023 (announcement Cloud2Go)
+- 🔧👨‍💻💪 Excited to announce that we’re working on upgrading Cloud2Go to version 3.0.9! Stay tuned for more updates! 🌟 #upgrade #cloudcomputing #programming #developer #softwaredevelopment
+
 ### 29.12.2022 (announcement Cloud2Go)
 - We started working on a subscription system for **Cloud2Go** that we will release in 2023!
 
