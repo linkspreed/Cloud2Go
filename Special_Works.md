@@ -1,4 +1,25 @@
 ### 26.03.2023 (announcement Cloud2Go)
+-  https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 26.03.2023 (announcement Cloud2Go)
+- The launch of version 3.0.9 of **Cloud2Go** was successful! 🥳
+- The new update is live now :)
+- https://cloud2go.tk 🔗
+
+### 26.03.2023 (announcement Cloud2Go)
+- We are now starting the launch of v3.0.9.
+
+### 26.03.2023 (announcement Cloud2Go)
+- The servers are now ready for the launch of version 3.0.9 for **Cloud2Go**.
+
+### 26.03.2023 (announcement Cloud2Go)
+- The code is now ready for the launch of version 3.0.9 for **Cloud2Go**.
+
+### 26.03.2023 (announcement Cloud2Go)
+-  **Cloud2Go** gets a big update today - we are going to launch v3.0.9. 😍
+
+### 26.03.2023 (announcement Cloud2Go)
 - 🔧👨‍💻💪 Excited to announce that we’re working on upgrading Cloud2Go to version 3.0.9! Stay tuned for more updates! 🌟 #upgrade #cloudcomputing #programming #developer #softwaredevelopment
 
 ### 29.12.2022 (announcement Cloud2Go)
