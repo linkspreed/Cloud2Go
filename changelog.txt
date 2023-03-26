@@ -1,3 +1,24 @@
+2023 March 26 - Version 3.0.9
+
+New Features
+Tags can now be added to files and folders and tags are now searchable.
+
+Enhancements
+Uploaded images will now have a correct cache header.
+
+Bug Fixes
+fixed some visual issues on checkout page.
+fixed a number of incompatibilities with different servers when uploading files.
+fixed upload aborting sometimes not working properly.
+fixed some workspace dialog translation issues.
+fixed several issues with dialog scrolling.
+fixed an issue with themes in appearance editor not saving sometimes.
+Fixed homepage link on 404 page.
+Fixed non default port for storage ftp credentials no working.
+Fixed an issue when closing upload queue manually would prevent subsequent uploads.
+
+-
+
 2022 December 16 - Version 3.0.8
 
 Enhancements
