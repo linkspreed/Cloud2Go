@@ -1,4 +1,4 @@
-# <img align="left" alt="Cloud2Go" width="200px" src="https://cloud2go.tk/storage/branding_media/1bbfdadc-d669-4e30-9258-ce93465f14b4.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/)) - Decentralized (Web3) | (v3.0.8)
+# <img align="left" alt="Cloud2Go" width="200px" src="https://cloud2go.tk/storage/branding_media/1bbfdadc-d669-4e30-9258-ce93465f14b4.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/)) - Decentralized (Web3) | (v3.0.9)
 
 Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
