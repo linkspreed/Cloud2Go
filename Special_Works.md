@@ -1,4 +1,7 @@
 ### 31.03.2023 (announcement Cloud2Go)
+- 🎉🌥️🔙 Cloud2Go is back online! We are excited to announce that our cloud services are up and running again. Thank you for your patience and loyalty. #cloudservices #technology #onlinestorage
+
+### 31.03.2023 (announcement Cloud2Go)
 - 👨‍💻🔧🌥️ Working hard to fix the #Cloud2Go issue as quickly as possible! Stay tuned for updates. #techsupport #cloudcomputing
 
 ### 26.03.2023 (announcement Cloud2Go)
