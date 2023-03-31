@@ -1,3 +1,6 @@
+### 31.03.2023 (announcement Cloud2Go)
+- 👨‍💻🔧🌥️ Working hard to fix the #Cloud2Go issue as quickly as possible! Stay tuned for updates. #techsupport #cloudcomputing
+
 ### 26.03.2023 (announcement Cloud2Go)
 - 🎉🙌 Our Cloud2Go upgrade to v3.0.9 was a success! 🚀✨ #cloudtechnology #upgraded #success
 
