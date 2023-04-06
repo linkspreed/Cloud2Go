@@ -1,3 +1,13 @@
+2023 April 06 - Version 3.1.0
+
+Fix: savings calculation in pricing page
+Fix: light theme still being default, event if dark theme is selected in settings page
+Fix: google tag manager snippet not being inserted correctly sometimes
+Fix: table rows only being selectable with double tap on some phones
+Fix: external link not working when added in 'auth-dropdown' position via menu manager
+
+-
+
 2023 March 26 - Version 3.0.9
 
 New Features
