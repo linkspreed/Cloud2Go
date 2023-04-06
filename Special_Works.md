@@ -1,3 +1,27 @@
+### 06.04.2023 (announcement Cloud2Go)
+- 🎉🙌 Our Cloud2Go upgrade to v3.1.0 was a success! 🚀✨ #cloudtechnology #upgraded #success
+
+### 06.04.2023 (announcement Cloud2Go)
+-  https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 06.04.2023 (announcement Cloud2Go)
+- The launch of version 3.1.0 of **Cloud2Go** was successful! 🥳
+- The new update is live now :)
+- https://cloud2go.tk 🔗
+
+### 06.04.2023 (announcement Cloud2Go)
+- We are now starting the launch of v3.1.0.
+
+### 06.04.2023 (announcement Cloud2Go)
+- The servers are now ready for the launch of version 3.1.0 for **Cloud2Go**.
+
+### 06.04.2023 (announcement Cloud2Go)
+- The code is now ready for the launch of version 3.1.0 for **Cloud2Go**.
+
+### 06.04.2023 (announcement Cloud2Go)
+-  **Cloud2Go** gets a big update today - we are going to launch v3.1.0. 😍
+
 ### 31.03.2023 (announcement Cloud2Go)
 - 🎉🌥️🔙 Cloud2Go is back online! We are excited to announce that our cloud services are up and running again. Thank you for your patience and loyalty. #cloudservices #technology #onlinestorage
 
