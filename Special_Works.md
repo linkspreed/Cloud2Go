@@ -1,4 +1,7 @@
 ### 08.04.2023 (announcement Cloud2Go)
+- Just reworked the landing page text on #Cloud2Go to make it even more user-friendly! And guess what? #Google login is now possible too! Check it out and make your cloud experience even smoother. #cloudcomputing #techupdates
+
+### 08.04.2023 (announcement Cloud2Go)
 - Exciting times ahead as we work on #Cloud2Go and run some business tests! Stay tuned for updates on our latest innovation in cloud technology. #digitaltransformation #cloudcomputing
 
 ### 06.04.2023 (announcement Cloud2Go)
