@@ -1,3 +1,6 @@
+### 08.04.2023 (announcement Cloud2Go)
+- Exciting times ahead as we work on #Cloud2Go and run some business tests! Stay tuned for updates on our latest innovation in cloud technology. #digitaltransformation #cloudcomputing
+
 ### 06.04.2023 (announcement Cloud2Go)
 - 🎉🙌 Our Cloud2Go upgrade to v3.1.0 was a success! 🚀✨ #cloudtechnology #upgraded #success
 
