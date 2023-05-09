@@ -1,3 +1,7 @@
+### 09.05.2023 (announcement Cloud2Go)
+- 🔁 Hey guys, a quick update! We're temporarily redirecting Cloud2Go to our new Cloud ShareNode while we work on a plan for Cloud2Go. Have you tried our Cloud ShareNode yet? Let us know what you think! #CloudShareNode #Cloud2Go #CloudComputing 💻🌤️
+🤔 Do you prefer using Cloud2Go or the new Cloud ShareNode? Let us know in the comments! 😊
+
 ### 08.04.2023 (announcement Cloud2Go)
 - Just reworked the landing page text on #Cloud2Go to make it even more user-friendly! And guess what? #Google login is now possible too! Check it out and make your cloud experience even smoother. #cloudcomputing #techupdates
 
