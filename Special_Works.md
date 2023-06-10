@@ -1,3 +1,6 @@
+### 11.06.2023 (announcement Cloud2Go)
+- 🚨 Exciting news! 🚨 We've just added Cloud2Go to our subdomain system! 🔥🌩️ 👉 https://cloud2go.tk now redirects to https://cloud2go.linkspreed.com, but don't worry, everything remains the same on the front-end! 😎 Have you checked it out yet? #Cloud2Go #Linkspreed #Technology 🔧🤖
+
 ### 09.05.2023 (announcement Cloud2Go)
 - 🔁 Hey guys, a quick update! We're temporarily redirecting Cloud2Go to our new Cloud ShareNode while we work on a plan for Cloud2Go. Have you tried our Cloud ShareNode yet? Let us know what you think! #CloudShareNode #Cloud2Go #CloudComputing 💻🌤️
 🤔 Do you prefer using Cloud2Go or the new Cloud ShareNode? Let us know in the comments! 😊
