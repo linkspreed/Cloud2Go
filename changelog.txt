@@ -1,3 +1,24 @@
+2023 July 10 - Version 3.1.1
+
+new: added two factor authentication support
+new: users can now be suspended/baned from admin area
+new: added full size social login buttons as an option in login and register pages
+new: it's now possible to prevent emails from certain domains from registering new accounts
+new: added active sessions panel in account settings page
+new: Improved responsiveness of all tables across the site.
+new: folder where uploads will be stored on local server can now be changed
+fix: prevent viewing all workspace files when no "files.view" permission is present for user
+fix: folder size getting out of sync sometimes when deleting/restoring files
+fix: some issues with file uploads when installed on a subdomain.
+fix: last week option in date picker
+fix: prevent admin user from being deleted
+fix: wrong site url sometimes being set during installation
+fix: some visual issues on checkout page
+fix: light theme still being default, event if dark theme is selected in settings page
+fix: hide theme change button if theme changing is disabled in settings page
+
+-
+
 2023 April 06 - Version 3.1.0
 
 Fix: savings calculation in pricing page
